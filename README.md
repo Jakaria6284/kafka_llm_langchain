@@ -35,7 +35,7 @@ This project demonstrates a production-grade pipeline combining:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/kafka-langchain-qa-bot.git
+git clone https://github.com/Jakaria6284/kafka_llm_langchain.git
 cd kafka-langchain-qa-bot
 
 ### 2. make virtual env
