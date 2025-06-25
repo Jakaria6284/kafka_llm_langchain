@@ -38,7 +38,7 @@ This project demonstrates a production-grade pipeline combining:
 git clone https://github.com/yourusername/kafka-langchain-qa-bot.git
 cd kafka-langchain-qa-bot
 
-## make virtual env
+### 2. make virtual env
 python -m venv venv
 venv\Scripts\activate
 
