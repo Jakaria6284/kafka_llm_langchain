@@ -1,0 +1,11 @@
+langchain
+faiss-cpu
+sentence-transformers
+kafka-python
+python-dotenv
+pandas
+requests
+langchain-community
+langchain-groq
+
+
